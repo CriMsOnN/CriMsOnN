@@ -5,6 +5,6 @@ I am a self taught web developer
 ### What I'm focusing on 👨‍💻
 
 Currently working on projects with nextjs, graphql and prisma<br/>
-![](https://github-readme-stats.vercel.app/api?username=CriMsOnN&show_icons=true&theme=tokyonight)<br/>
+![](https://github-readme-stats.vercel.app/api?username=CriMsOnN&show_icons=true&theme=tokyonight&count_private=true&hide=contribs,prs)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CriMsOnN&layout=compact)<br/>
 
